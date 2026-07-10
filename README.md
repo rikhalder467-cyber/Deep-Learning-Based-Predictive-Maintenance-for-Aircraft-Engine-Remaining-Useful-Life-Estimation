@@ -1,4 +1,4 @@
-# Predictive Maintenance for IoT Devices
+# Deep Learning Based Predictive Maintenance for Aircraft Engine Remaining Useful Life Estimation
 
 ## Overview
 This repository contains an LSTM-based forecasting model for predictive maintenance in manufacturing settings. It analyzes time series data from IoT sensors using Python and Keras.
